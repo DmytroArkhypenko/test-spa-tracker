@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-spa-tracker/static/css/main.0fc33659.chunk.css",
+    "main.js": "/test-spa-tracker/static/js/main.9bb090c7.chunk.js",
+    "main.js.map": "/test-spa-tracker/static/js/main.9bb090c7.chunk.js.map",
+    "runtime-main.js": "/test-spa-tracker/static/js/runtime-main.ebf4585e.js",
+    "runtime-main.js.map": "/test-spa-tracker/static/js/runtime-main.ebf4585e.js.map",
+    "static/js/2.2f6e127e.chunk.js": "/test-spa-tracker/static/js/2.2f6e127e.chunk.js",
+    "static/js/2.2f6e127e.chunk.js.map": "/test-spa-tracker/static/js/2.2f6e127e.chunk.js.map",
+    "index.html": "/test-spa-tracker/index.html",
+    "static/css/main.0fc33659.chunk.css.map": "/test-spa-tracker/static/css/main.0fc33659.chunk.css.map",
+    "static/js/2.2f6e127e.chunk.js.LICENSE.txt": "/test-spa-tracker/static/js/2.2f6e127e.chunk.js.LICENSE.txt",
+    "static/media/delete.df5e329c.svg": "/test-spa-tracker/static/media/delete.df5e329c.svg",
+    "static/media/littlePlay.39fb5126.svg": "/test-spa-tracker/static/media/littlePlay.39fb5126.svg",
+    "static/media/stop.12a98abf.svg": "/test-spa-tracker/static/media/stop.12a98abf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebf4585e.js",
+    "static/js/2.2f6e127e.chunk.js",
+    "static/css/main.0fc33659.chunk.css",
+    "static/js/main.9bb090c7.chunk.js"
+  ]
+}
